@@ -11,8 +11,8 @@
 	- ~~Course Overview~~
 	- ~~Setting Up Gulp~~
 	- ~~Writing Your First Task~~
-	- Task Dependencies
-	- Watching Files with Gulp
+	- ~~Task Dependencies~~
+	- ~~Watching Files with Gulp~~
 - **Running Common Tasks**
 	- Optimizing CSS, JavaScript, and Images
 	- Outputting Minified and Unminified Files

@@ -8,11 +8,11 @@
 
 ##Class Curriculum
 - **Getting Started with Gulp**
-	-[x] Course Overview
-	-[x] Setting Up Gulp
-	-[x] Writing Your First Task
-	-[x] Task Dependencies
-	-[x] Watching Files with Gulp
+	- [x] Course Overview
+	- [x] Setting Up Gulp
+	- [x] Writing Your First Task
+	- [x] Task Dependencies
+	- [x] Watching Files with Gulp
 - **Running Common Tasks**
 	- [ ] Optimizing CSS, JavaScript, and Images
 	- [ ] Outputting Minified and Unminified Files

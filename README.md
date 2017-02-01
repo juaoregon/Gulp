@@ -14,14 +14,14 @@
 	-[x] Task Dependencies
 	-[x] Watching Files with Gulp
 - **Running Common Tasks**
-	- Optimizing CSS, JavaScript, and Images
-	- Outputting Minified and Unminified Files
-	- Using htmlbuild
-	- Testing the Code
-	- Using Preprocessors such as CoffeeScript and LESS
-	- Using LiveReload
+	- [ ] Optimizing CSS, JavaScript, and Images
+	- [ ] Outputting Minified and Unminified Files
+	- [ ] Using htmlbuild
+	- [ ] Testing the Code
+	- [ ] Using Preprocessors such as CoffeeScript and LESS
+	- [ ] Using LiveReload
 - **Digging Deeper**
-	- An Overview of Streams
-	- Handling Errors
-	- Writing a Plugin
-	- Wrapping Up
+	- [ ] An Overview of Streams
+	- [ ] Handling Errors
+	- [ ] Writing a Plugin
+	- [ ] Wrapping Up
